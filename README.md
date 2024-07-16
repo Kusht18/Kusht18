@@ -1,5 +1,5 @@
 # Hello, I'm Kush
-<a href="(https://www.linkedin.com/in/kush-trivedi-337357227/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kushtrivedi18/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a junior Computer Science student at Rutgers University.
 
