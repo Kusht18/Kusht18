@@ -29,12 +29,15 @@ My journey in computer science has led me to develop a passion for coding, infor
 ### Coding
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 </div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src = "https://img.shields.io/badge/TCPdump-4E2A8E?style=for-the-badge&logo=wireshark&logoColor=white" />
+
 </div>
 
 ### SIEM
