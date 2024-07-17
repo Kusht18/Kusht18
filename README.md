@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for coding, infor
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response                              | SOC Automation Lab|
 | Security Audit                               | <a href = "https://github.com/Kusht18/Botium-Toys-Risk-Assesment">Botium Toys Risk Assesment</a>|
 
 ## Tools
