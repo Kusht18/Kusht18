@@ -12,6 +12,7 @@ My journey in computer science has led me to develop a passion for coding, infor
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Python                              | <a href= "https://github.com/Kusht18/Python-File-Update-Algorithm"> Python Algorthim for File Update</a> |                                |
 | Incident Response | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
 | Network Traffic and Logs| <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
 | SIEM tools      | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a>|
