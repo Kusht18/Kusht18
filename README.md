@@ -1,5 +1,8 @@
 # Hello, I'm Kush Trivedi
 <a href="https://www.linkedin.com/in/kushtrivedi18/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src = "https://img.shields.io/badge/Resume-red?style=for-the-badge"></a>
+
+
 
 As a junior computer science student at Rutgers University, I have developed a solid foundation in programming, algorithms, and cybersecurity principles. My coursework and hands-on projects have equipped me with the skills to analyze and solve complex problems, while my passion for cybersecurity drives me to stay updated with the latest industry trends and technologies. I am eager to apply my knowledge and skills in a professional setting, contributing to innovative solutions and enhancing security measures.
 
