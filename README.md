@@ -1,6 +1,6 @@
 # Hello, I'm Kush Trivedi
 <a href="https://www.linkedin.com/in/kushtrivedi18/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src = "https://img.shields.io/badge/Resume-red?style=for-the-badge"></a>
+<a href = "https://github.com/Kusht18/Resume/blob/main/kushtrivedi_resume.pdf/"><img src = "https://img.shields.io/badge/Resume-red?style=for-the-badge"></a>
 
 
 
