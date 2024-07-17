@@ -1,14 +1,13 @@
 # Hello, I'm Kush Trivedi
 <a href="https://www.linkedin.com/in/kushtrivedi18/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a junior Computer Science student at Rutgers University.
+As a junior computer science student at Rutgers University, I have developed a solid foundation in programming, algorithms, and cybersecurity principles. My coursework and hands-on projects have equipped me with the skills to analyze and solve complex problems, while my passion for cybersecurity drives me to stay updated with the latest industry trends and technologies. I am eager to apply my knowledge and skills in a professional setting, contributing to innovative solutions and enhancing security measures.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for coding, information technology, and cybersecurity. I am now eager to transition into this field, specifically aiming to get an internship.
+Seeking an internship in the fields of computer science, information technology, or cybersecurity where I can leverage my academic background and technical skills. I aim to gain practical experience, contribute to impactful projects, and further develop my expertise in cybersecurity. My goal is to support organizational objectives while advancing my career in a dynamic and challenging environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,7 +23,6 @@ My journey in computer science has led me to develop a passion for coding, infor
 | Security Audit                               | <a href = "https://github.com/Kusht18/Botium-Toys-Risk-Assesment">Botium Toys Risk Assesment</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Coding
 <div>
