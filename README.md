@@ -12,8 +12,10 @@ My journey in computer science has led me to develop a passion for coding, infor
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident Response | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
+| Network Packet Analysis| <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
+| SIEM tools      | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a>|
+| Documentation                                   | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a>|
 | Vulnerability Assesment      | <a href= "https://github.com/Kusht18/Vulnerability-Assesment"> Vulnerability Assesment</a>|
 | SQL                                              | <a href = "https://github.com/Kusht18/Filters-SQL-Queries"> Filters on SQL Queries|
 | Linux                                       | <a href = "https://github.com/Kusht18/Linux-File-Permissions">Linux Changing File Permissions</a>|
