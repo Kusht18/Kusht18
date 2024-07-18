@@ -14,14 +14,14 @@ Seeking an internship in the fields of computer science, information technology,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python                              | <a href= "https://github.com/Kusht18/Python-File-Update-Algorithm"> Python Algorthim for File Update</a> |                                |
+| Python                              | <a href= "https://github.com/Kusht18/Python-File-Update-Algorithm"> Python Algorthim for File Update</a> |  
+| SQL                                              | <a href = "https://github.com/Kusht18/Filters-SQL-Queries"> Filters on SQL Queries|
+| Linux                                       | <a href = "https://github.com/Kusht18/Linux-File-Permissions">Linux Changing File Permissions</a>||
 | Incident Response | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
 | Network Traffic and Logs| <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a> |
 | SIEM tools      | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a>|
 | Documentation                                   | <a href="https://github.com/Kusht18/Incident-Handlers-Journal"> Incident Handler's Journal</a>|
 | Vulnerability Assesment      | <a href= "https://github.com/Kusht18/Vulnerability-Assesment"> Vulnerability Assesment</a>|
-| SQL                                              | <a href = "https://github.com/Kusht18/Filters-SQL-Queries"> Filters on SQL Queries|
-| Linux                                       | <a href = "https://github.com/Kusht18/Linux-File-Permissions">Linux Changing File Permissions</a>|
 | NIST Cybersecurity Framework                 |  <a href = "https://github.com/Kusht18/Incident-Report-Analysis">Incident Report Analysis</a>|
 | Security Audit                               | <a href = "https://github.com/Kusht18/Botium-Toys-Risk-Assesment">Botium Toys Risk Assesment</a>|
 
