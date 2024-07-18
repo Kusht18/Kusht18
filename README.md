@@ -54,10 +54,10 @@ Seeking an internship in the fields of computer science, information technology,
 </div>
 
 ## Projects
--Python Algorthim for File Update
--Filters on SQL Queries
--Linux Changing File Permissions
--Incident Handler's Journal
--Vulnerability Assesment
--Incident Report Analysis
--Botium Toys Risk Assesment
+- Python Algorthim for File Update
+- Filters on SQL Queries
+- Linux Changing File Permissions
+- Incident Handler's Journal
+- Vulnerability Assesment
+- Incident Report Analysis
+- Botium Toys Risk Assesment
