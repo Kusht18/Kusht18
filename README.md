@@ -50,7 +50,7 @@ Seeking an internship in the fields of computer science, information technology,
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-blue?style=for-the-badge&logo=google&logoColor=white" />
+<a href = "https://www.credly.com/badges/1d9fdc8d-a9ed-4a77-be5c-69d45a0867a9/linked_in_profile/"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
