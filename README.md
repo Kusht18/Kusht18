@@ -4,7 +4,7 @@
 
 
 
-As a junior computer science student at Rutgers University, I have developed a solid foundation in programming, algorithms, and cybersecurity principles. My coursework and hands-on projects have equipped me with the skills to analyze and solve complex problems, while my passion for cybersecurity drives me to stay updated with the latest industry trends and technologies. I am eager to apply my knowledge and skills in a professional setting, contributing to innovative solutions and enhancing security measures.
+As a junior computer science student at Rutgers University, I have developed a solid foundation in programming, algorithms, and cybersecurity principles. My coursework and hands-on projects have equipped me with the skills to analyze and solve complex problems, while my passion for technology drives me to stay updated with the latest industry trends and technologies. I am eager to apply my knowledge and skills in a professional setting, contributing to innovative solutions and enhancing security measures.
 
 ## Objective
 
